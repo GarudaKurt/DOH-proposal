@@ -100,7 +100,7 @@ MindQuest is a groundbreaking mobile app that takes users on an interactive jour
 
 Developing MindQuest represents an innovative approach to addressing mental health issues by leveraging the power of storytelling, gamification, and technology to create a transformative and empowering experience for users.
 
-# Proposal no.3
+# Proposal no.4
 Got it! Let's enhance the Serenity AI Companion with the ability to analyze the user's emotions through their expressions and words, and incorporate relevant Bible verses to provide comfort and encouragement during times of sorrow. Here's the refined concept:
 
 **Title: FaithfulCompanion**
